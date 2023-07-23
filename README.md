@@ -2,7 +2,7 @@
 
 🤔My name is Mr. Eudard-- I mean-- EZ500, and that's my name because they are my initials plus my favorite number plus two zeroes.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez500&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez500&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 💬Some languages I can (maybe) code in are Python, C++, Java, and Ruby
 
