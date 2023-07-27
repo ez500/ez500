@@ -1,6 +1,6 @@
 ### Hello, how's it goin', ladies! 👋
 
-🤔My name is Mr. Eudard-- I mean-- EZ500, and that's my name because they are my initials plus my favorite number plus two zeroes.
+🤔My name is Mr. Eudard-- I mean-- ez500, and that's my name because they are my initials plus my favorite number plus two zeroes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez500&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
