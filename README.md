@@ -7,7 +7,7 @@
 💬Some languages I can (maybe) code in are Python, C++, Java, and Ruby
 
 📫Discord: bigfatmidget  
-⚡Please visit and follow my [Twitch](https:/twitch.tv/bigfatmidget) lol
+⚡Please visit and follow my [Twitch](https://twitch.tv/bigfatmidget) lol
 
 🔧I am currently working on the bigfatstudier Discord bot and a frontend for GreatStudier with [greateric](https://github.com/greatericontop) and [gerseneck](https://github.com/gerseneck).
 
