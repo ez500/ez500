@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez500&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
-💬Some languages I can (maybe) code in are Python, C++, Java, and Ruby
+💬Some languages I can (maybe) code in are Python, C/C++, Java, HTML/CSS/JS, and Ruby
 
 📫Discord: bigfatmidget  
 ⚡Please visit and follow my [Twitch](https://twitch.tv/bigfatmidget) lol
