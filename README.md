@@ -9,7 +9,7 @@
 📫Discord: bigfatmidget  
 ⚡Please visit and follow my [Twitch](https://twitch.tv/bigfatmidget) lol
 
-🔧I am currently working on the bigfatstudier Discord bot and a frontend for GreatStudier with [greateric](https://github.com/greatericontop) and [gerseneck](https://github.com/gerseneck).
+🔧I am currently developing [software](https://github.com/frc461/Rowdy25) (and other things to supplement robotics) for an [FRC](https://www.firstinspires.org/robotics/frc) robot.
 
 <!--
 **ez500/ez500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
