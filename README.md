@@ -2,7 +2,7 @@
 
 🤔 My name is Mr. Eud-- I mean-- ez500, and that's my name because they are my initials plus my favorite number plus two zeroes.
 
-[![ez500's GitHub stats](https://github-readme-stats.vercel.app/api?username=ez500&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats) ![ez500's GitHub streak stats](https://streak-stats.demolab.com/?user=ez500&theme=dark)
+![ez500's GitHub stats](./profile/stats.svg) ![ez500's GitHub streak stats](https://streak-stats.demolab.com/?user=ez500&theme=dark)
 
 💬 Some languages I can (maybe) code in are Python, Java, C/C++, HTML/CSS/JS, Ruby
 
